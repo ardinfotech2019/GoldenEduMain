@@ -8,7 +8,7 @@ const routes = [
   },
   {
     path: "/verification",
-    name: "Home",
+    name: "Verification",
     component: Home,
   },
 ];
